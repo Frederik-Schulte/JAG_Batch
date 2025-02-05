@@ -1,7 +1,8 @@
 # JAG3D-Batch
 
 - JAG3D-Batch is an extension for the adjustment software [JAG3D](https://software.applied-geodesy.org/en/) that facilitates automatic deformation analyses. This tool is useful for users who require an automated open source workflow instructions for geodetic applications.
-The following is a step-by-step guide. Firstly, the installation and then the workflow with this Python module is described. 
+The following is a step-by-step guide. Firstly, the installation and then the workflow with this Python module is described.
+- There is also a fork of JAG3D-Batch that enables the complete workflow, including the control of the total station on a Raspberry Pi. More details can be found at the following link: [JAG_Batch_Raspi_TS](https://github.com/N4UT1LU5/JAG_Batch_Raspi_TS)
 ---
 
 ## Features
