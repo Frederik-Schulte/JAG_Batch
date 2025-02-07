@@ -12,7 +12,22 @@ authors:
   - family-names: "Czerwonka-Schröder"
     given-names: "Daniel"
 title: "Automatic geodetic monitoring with total stations based on open source software library JAG3D - Case study of a rockfall in Trier/Germany"
+year: 2025
+url: "https://github.com/Frederik-Schulte/JAG_Batch"
+preferred-citation:
+type: conference-paper
+authors:
+  - family-names: "Schulte"
+    given-names: "Frederik"
+  - family-names: "Schneider"
+    given-names: "Leon"
+  - family-names: "Lösler"
+    given-names: "Michael"
+  - family-names: "Printz"
+    given-names: "Stefan"
+  - family-names: "Czerwonka-Schröder"
+    given-names: "Daniel"
+title: "Automatic geodetic monitoring with total stations based on open source software library JAG3D - Case study of a rockfall in Trier/Germany"
 conference: "6th JISDM"
 year: 2025
 address: "Karlsruhe"
-type: conference-paper
