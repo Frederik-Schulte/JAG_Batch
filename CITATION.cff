@@ -28,6 +28,6 @@ preferred-citation:
   - family-names: "Czerwonka-Schröder"
     given-names: "Daniel"
   title: "Automatic geodetic monitoring with total stations based on open source software library JAG3D - Case study of a rockfall in Trier/Germany"
-  series: "6th JISDM"
+  conference: "6th JISDM"
   year: 2025
   address: "Karlsruhe"
